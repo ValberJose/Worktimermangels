@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Worktimer_site" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Worktimer_site/worktimer_site" vcs="Git" />
+>>>>>>> 705192f022fde4819f2703630304aef0f8963dbc
   </component>
 </project>
